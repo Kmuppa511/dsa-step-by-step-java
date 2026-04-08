@@ -15,7 +15,7 @@ Java
 ### Phase 1 — Fundamentals
 - [x] Input & Output
 - [x] Conditional Statements
-- [ ] For Loop
+- [x] For Loop
 - [ ] While Loop
 - [ ] Functions
 - [ ] Classes & Objects
